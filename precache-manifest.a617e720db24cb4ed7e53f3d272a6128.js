@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a96a3160e48dab69e19bddb0019ccd1",
+    "revision": "1809e189a5a44c567565e2504985ca12",
     "url": "/cryptoapp/index.html"
   },
   {
-    "revision": "532c6c4d135f07ef2cbd",
-    "url": "/cryptoapp/static/css/main.2cce8147.chunk.css"
+    "revision": "64afd3592d802089a1e4",
+    "url": "/cryptoapp/static/css/main.6270112b.chunk.css"
   },
   {
-    "revision": "41ade8a8e6da65a03226",
-    "url": "/cryptoapp/static/js/2.892ea8d4.chunk.js"
+    "revision": "ebf10f9d5a49ddc226a1",
+    "url": "/cryptoapp/static/js/2.3c318958.chunk.js"
   },
   {
-    "revision": "532c6c4d135f07ef2cbd",
-    "url": "/cryptoapp/static/js/main.e1c4ef02.chunk.js"
+    "revision": "64afd3592d802089a1e4",
+    "url": "/cryptoapp/static/js/main.e216d2b8.chunk.js"
   },
   {
     "revision": "9428c1e0e6399e2862e6",
